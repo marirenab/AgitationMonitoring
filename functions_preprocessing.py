@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
+
 
 # I extend the labels to 6 days before (7 days including the recording)
 days_before = 7
